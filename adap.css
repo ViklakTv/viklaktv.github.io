@@ -1,0 +1,79 @@
+@media only screen and (max-width: 992px){
+
+.wer1{
+	height:60;
+	weight:55;
+}
+.wer2{
+	height:60;
+	weight:55;
+}
+h1 {
+  font-size: 45px;
+  color: white;
+  text-shadow: 1px 1px grey;
+}
+.dom{
+	border-radius: 15px 15px;
+    text-decoration: none;
+	background-color: #DC143C;
+    color: white;
+}
+.lol{
+	border-radius: 15px 15px;
+    text-decoration: none;
+	background-color: #FF00FF;
+    color: white;
+ }
+ 
+.tyl{
+	color: grey;
+}
+.super{
+  font-size: 35px;
+  color: white;
+}
+h2 {
+	font-size: 20px;
+	color: white;
+}
+}
+@media only screen and (max-width: 768px){
+
+.wer1{
+	height:30;
+	weight:23;
+}
+.wer2{
+	height:30;
+	weight:23;
+}
+h1 {
+  font-size: 15px;
+  color: white;
+}
+.dom{
+	border-radius: 5px 5px;
+    text-decoration: none;
+	background-color: #DC143C;
+    color: white;
+}
+.lol{
+	border-radius: 5px 5px;
+    text-decoration: none;
+	background-color: #FF00FF;
+    color: white;
+ }
+ 
+.tyl{
+	color: grey;
+}
+.super{
+  font-size: 35px;
+  color: white;
+}
+h2 {
+	font-size: 20px;
+	color: white;
+}
+}
