@@ -1,5 +1,11 @@
 @media only screen and (max-width: 992px){
-
+.back{
+     background: url("ncr.jpg") no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	}
 .wer1{
 	height:60;
 	weight:55;
@@ -39,7 +45,13 @@ h2 {
 }
 }
 @media only screen and (max-width: 768px){
-
+.back{
+     background: url("ncr.jpg") no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	}
 .wer1{
 	height:30;
 	weight:23;
